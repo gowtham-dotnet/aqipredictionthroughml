@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+cufflinks
+chart-studio
+mlflow
+pyyaml
+tqdm
+geopy
+streamlit
+pydeck
+huggingface_hub
